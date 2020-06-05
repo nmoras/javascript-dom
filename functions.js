@@ -6,3 +6,4 @@ function reduceFn(array){
 
 console.log('the sum is', reduceFn(arr));
 
+module.exports = { reduceFn }
