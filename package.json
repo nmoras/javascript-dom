@@ -1,0 +1,22 @@
+{
+  "name": "javascript-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmoras/javascript-dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmoras/javascript-dom/issues"
+  },
+  "homepage": "https://github.com/nmoras/javascript-dom#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
